@@ -11,13 +11,6 @@ Uma experiência focada em design moderno, interatividade e responsividade.
 
 ---
 
-## 📸 Preview
-
-![Preview do Projeto](./src/assets/images/preview.jpg)  
-*Simulação visual da landing page clonada com foco nos detalhes visuais da Apple.*
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 - ✅ **HTML5**  
